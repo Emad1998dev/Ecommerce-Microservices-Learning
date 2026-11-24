@@ -10,3 +10,4 @@ C:\Projects\Ecommerce-Microservices-Learning\Ecommerce\Catalog.Core\obj\Debug\ne
 C:\Projects\Ecommerce-Microservices-Learning\Ecommerce\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
 C:\Projects\Ecommerce-Microservices-Learning\Ecommerce\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
 C:\Projects\Ecommerce-Microservices-Learning\Ecommerce\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
+C:\Projects\Ecommerce-Microservices-Learning\Ecommerce\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json
